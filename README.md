@@ -15,6 +15,6 @@
        <li> Micaela Kler </l>
        <li>Liliana Elizabet Lamas</li>
        <li>Juan Juares</li>
-       <li>Carol Peves)</li>
+       <li>Carol Peves</li>
       </ul>  </h4>
 </p> 

@@ -14,7 +14,7 @@
        <li>Rubí Nohemí García Alarcón</li>
        <li> Micaela Kler </l>
        <li>Liliana Elizabet Lamas</li>
-       <li>Juan Juares</li>
+       <li>Juan Jure</li>
        <li>Carol Peves</li>
       </ul>  </h4>
 </p> 

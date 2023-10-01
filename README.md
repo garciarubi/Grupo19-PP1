@@ -11,10 +11,10 @@
   <h4 align="left">Integrantes: </h4>
      <h4 <ul type=”A”>
        <li> Lamine Mechedou</li>
-       <li>Rubí Nohemí García Alarcón</li>
        <li> Micaela Kler </l>
        <li>Liliana Elizabet Lamas</li>
        <li>Juan Jure</li>
        <li>Carol Peves</li>
+       <li>Rubí Nohemí García Alarcón</li>
       </ul>  </h4>
 </p> 

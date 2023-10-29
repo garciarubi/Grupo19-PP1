@@ -23,14 +23,14 @@
       </ul>  </h4>
 </p> 
 <p align="center">
-    <h2 align="center"> PROYECTO ANALISIS DE LA INFLACIÓN EN ARGENTINA  </h2>
+    <h2 align="center"> Análisis de la Inflación en Argentina y su Impacto en el PIB: Tendencias, Patrones y Perspectivas  </h2>
 </p> 
 <p align="center">
-    <h3 align="center">Objetivo: Predicciones a 10 Años: ​
-               ¿Qué Esperar de la Inflación en Argentina? </h3>
+    <h3 align="center">Objetivo: Análisis de la Inflación en Argentina y su Impacto en el PIB: 
+         Tendencias, Patrones y Perspectivas </h3>
 </p> 
 <p align="left">
-          <h4 align="left">  El objetivo de este trabajo _________</h4>
+          <h4 align="left">  El objetivo de este proyecto es Evaluar la Influencia de la Inflación en el Comportamiento del Producto Interno Bruto (PIB) de Argentina a lo largo de las Décadas, Identificando Patrones y Factores Determinantes, con el fin de Proporcionar Perspectivas y Recomendaciones Económicas. _________</h4>
       <h4 align="left">  _____________  </h4>
 </p> 
 <p align="center">

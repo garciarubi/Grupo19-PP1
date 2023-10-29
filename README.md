@@ -26,8 +26,8 @@
     <h2 align="center"> PROYECTO ANALISIS DE LA INFLACIÓN EN ARGENTINA  </h2>
 </p> 
 <p align="center">
-    <h2 align="center">Objetivo: Predicciones a 10 Años: ​
-               ¿Qué Esperar de la Inflación en Argentina? </h2>
+    <h3 align="center">Objetivo: Predicciones a 10 Años: ​
+               ¿Qué Esperar de la Inflación en Argentina? </h3>
 </p> 
 <p align="left">
           <h4 align="left">  El objetivo de este trabajo _________</h4>

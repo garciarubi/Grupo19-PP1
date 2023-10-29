@@ -7,7 +7,11 @@
      <h3>EQUIPO N°19 (Alumnos de ambas comisiones)</h3>
 </p> 
 <p align="left">
-     <h4 align="left"> Docente: </h4>
+     <h4 align="left"> Docente: 
+                               <li> Narciso Hector Perez</li>
+                               <li> Carlos Charletti </li>
+                               <li> Hector prado </li>
+     </h4>
   <h4 align="left">Integrantes: </h4>
      <h4 <ul type=”A”>
        <li> Lamine Mechedou</li>

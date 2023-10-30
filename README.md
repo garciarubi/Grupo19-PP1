@@ -41,23 +41,21 @@
 <p align="center">
     <h3 align="center"> Planificación del proceso </h3>
 </p> 
-<p align="left">
-          <h4 align="left">  El proyecto se dividió en diversas etapas, incluyendo la recopilación de datos, la limpieza y preparación, el análisis exploratorio, el uso de K-Means para el análisis de inflación y PIB, y la creación de visualizaciones en Tableau. Cada paso se desarrolló de manera metódica para lograr los objetivos del proyecto.</h4>
+<p align="left"> El proyecto se dividió en diversas etapas, incluyendo la recopilación de datos, la limpieza y preparación, el análisis exploratorio, el uso de K-Means para el análisis de inflación y PIB, y la creación de visualizaciones en Tableau. Cada paso se desarrolló de manera metódica para lograr los objetivos del proyecto.
 </p> 
 <h4 align="left">  _________ </h4>
 <p align="center">
     <h3 align="center">Herramientas y tecnologías utilizadas</h3>
 </p> 
-<p align="left">
-  <h4 align="left">Python fue el lenguaje de programación principal seleccionado para este proyecto debido a su amplia adopción en el análisis de datos y la disponibilidad de bibliotecas relevantes.
- </h4>
-     <h4 <ul type=”A”>
+<p align="left">Python fue el lenguaje de programación principal seleccionado para este proyecto debido a su amplia adopción en el análisis de datos y la disponibilidad de bibliotecas relevantes.
+     <br>
+     <ul <ul type=”A”>
        <li>Pandas: Empleado para la manipulación y análisis de datos tabulares.</li>
        <li>NumPy: Utilizado para realizar operaciones numéricas y matriciales.</li>
        <li>Matplotlib: Empleado para la creación de visualizaciones gráficas. </li>
        <li>Scikit-Learn: Utilizado para la implementación de modelos de predicción, en particular, se aplicó el algoritmo de K-Means para el análisis de agrupamiento.</li>
        <li>Tableau: Herramienta de visualización de datos que se utilizó para crear visualizaciones interactivas. </li>
-      </ul>  </h4>
+      </ul>
 </p> 
 
 <p align="center">

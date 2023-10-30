@@ -34,18 +34,19 @@
       <h4 align="left">  _____________  </h4>
 </p> 
 <p align="center">
-    <h2 align="center">INTRODUCCIÓN: </h2>
+    <h3 align="center">Introducción: </h3>
 </p> 
       <h4 align="left">  _________ </h4>
 </p> 
 <p align="center">
-    <h2 align="center"> PLANIFICACIÓN DEL PROCESO </h2>
+    <h3 align="center"> Planificación del proceso </h3>
 </p> 
 <p align="left">
           <h4 align="left">  El proyecto se dividió en diversas etapas, incluyendo la recopilación de datos, la limpieza y preparación, el análisis exploratorio, el uso de K-Means para el análisis de inflación y PIB, y la creación de visualizaciones en Tableau. Cada paso se desarrolló de manera metódica para lograr los objetivos del proyecto.</h4>
 </p> 
+<h4 align="left">  _________ </h4>
 <p align="center">
-    <h2 align="center">HERRAMIENTAS Y TECNOLOGÍAS UTILIZADAS</h2>
+    <h3 align="center">Herramientas y tecnologías utilizadas</h3>
 </p> 
 <p align="left">
   <h4 align="left">Python fue el lenguaje de programación principal seleccionado para este proyecto debido a su amplia adopción en el análisis de datos y la disponibilidad de bibliotecas relevantes.
@@ -60,7 +61,7 @@
 </p> 
 
 <p align="center">
-    <h2 align="center"> Aplicación </h2>
+    <h3 align="center"> Aplicación </h3>
 </p> 
       <h4 align="left"> _______ </h4>
       <h4 align="left"> ________  </h4>
@@ -72,7 +73,7 @@
      <h4 align="left"> ________  </h4>
 </p> 
 <p align="center">
-    <h2 align="center">CONCLUSIONES </h2>   
+    <h3 align="center">CONCLUSIONES </h3>   
       <h4(_________)  </h4>
        <h4 (________)   </h4>
        </p>

@@ -63,7 +63,7 @@ A través de este análisis, se espera proporcionar una perspectiva más clara d
 </p> 
 
 <p align="left">
-    <h2 align="left"> Tablero Trello  </h2>
+    <h3 align="left"> Tablero Trello  </h3>
 </p> 
 
 

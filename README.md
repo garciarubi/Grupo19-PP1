@@ -62,7 +62,9 @@ A través de este análisis, se espera proporcionar una perspectiva más clara d
       </ul>
 </p> 
 
-
+<p align="center">
+    <h2 align="center"> Análisis de la Inflación en Argentina y su Impacto en el PIB: Tendencias, Patrones y Perspectivas  </h2>
+</p> 
     <h3 align="left" Tablero Trello </h3>
     <h4 align="left" https://trello.com/b/Wij5Ek3W/grupo-19 </h4>
 

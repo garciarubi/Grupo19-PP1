@@ -63,13 +63,8 @@ A través de este análisis, se espera proporcionar una perspectiva más clara d
 </p> 
 
 
-    <h3 align="center">CONCLUSIONES </h3>   
-      <h4(_________)  </h4>
-       <h4 (________)   </h4>
-       </p>
-       </p>
-       </p>
-
+    <h3  align="left">Trello: Trello: https://trello.com/b/Wij5Ek3W/grupo-19 </h3>   
+     
 
 
 <p align="center">

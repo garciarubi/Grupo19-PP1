@@ -9,7 +9,7 @@
 <p align="left">
      <h4 align="left"> Docente: 
                                <li> Narciso Hector Perez</li>
-                               <li> Carlos Charletti </li>
+                               <li> Carlos Ignacio Charletti</li>
                                <li> Hector prado </li>
      </h4>
   <h4 align="left">Integrantes: </h4>

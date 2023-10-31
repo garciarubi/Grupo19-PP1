@@ -47,7 +47,7 @@ A través de este análisis, se espera proporcionar una perspectiva más clara d
 </p> 
 <p align="left"> El proyecto se dividió en diversas etapas, incluyendo la recopilación de datos, la limpieza y preparación, el análisis exploratorio, el uso de K-Means para el análisis de inflación y PIB, y la creación de visualizaciones en Tableau. Cada paso se desarrolló de manera metódica para lograr los objetivos del proyecto.
 </p> 
-<h4 align="left">  _________ </h4>
+
 <p align="center">
     <h3 align="center">Herramientas y tecnologías utilizadas</h3>
 </p> 

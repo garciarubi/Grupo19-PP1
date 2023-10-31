@@ -62,13 +62,7 @@ A través de este análisis, se espera proporcionar una perspectiva más clara d
       </ul>
 </p> 
 
-<p align="center">
-    <h2 align="center">________ </h2>
-    <h4 align="left">  _______ </h4>
-     <h4 align="left"> _____  </h4>
-     <h4 align="left"> ________  </h4>
-</p> 
-<p align="center">
+
     <h3 align="center">CONCLUSIONES </h3>   
       <h4(_________)  </h4>
        <h4 (________)   </h4>

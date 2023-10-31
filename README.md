@@ -64,7 +64,9 @@ A través de este análisis, se espera proporcionar una perspectiva más clara d
 
 <p align="left">
     <h3 align="left"> Tablero Trello: https://trello.com/b/Wij5Ek3W/grupo-19  </h3>
-     <h3 align="left"> links de tableau _______  </h3>
+     <h3 align="left"> links de tableau: 
+     Evolucion del PBI: https://public.tableau.com/app/profile/micaela.kler/viz/EvoluciondelPBI/Dashboard1 
+     Evolución de la inflacion: https://public.tableau.com/app/profile/micaela.kler/viz/Inflacin_16976697105160/Dashboard1  </h3>
 </p> 
 
 

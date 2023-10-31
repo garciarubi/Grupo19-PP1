@@ -62,8 +62,10 @@ A través de este análisis, se espera proporcionar una perspectiva más clara d
       </ul>
 </p> 
 
-
-    <h3  align="left">Trello: Trello: https://trello.com/b/Wij5Ek3W/grupo-19 </h3>   
+<p align="center">
+    <h3 align="center"Tablero Trello</h3>
+    <h4 align="center"[Tablero Trello](https://trello.com/b/Wij5Ek3W/grupo-19)</h4>
+</p>  
      
 
 

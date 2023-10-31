@@ -7,7 +7,7 @@
      <h3>EQUIPO N°19 (Alumnos de ambas comisiones)</h3>
 </p> 
 <p align="left">
-     <h4 align="left"> Docente: 
+     <h4 align="left"> Docentes: 
                                <li> Narciso Hector Perez</li>
                                <li> Carlos Ignacio Charletti</li>
                                <li> Hector prado </li>

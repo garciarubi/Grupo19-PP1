@@ -30,13 +30,17 @@
          Tendencias, Patrones y Perspectivas </h3>
 </p> 
 <p align="left">
-          <h4 align="left">  El objetivo de este proyecto es Evaluar la Influencia de la Inflación en el Comportamiento del Producto Interno Bruto (PIB) de Argentina a lo largo de las Décadas, Identificando Patrones y Factores Determinantes, con el fin de Proporcionar Perspectivas y Recomendaciones Económicas. _________</h4>
-      <h4 align="left">  _____________  </h4>
+          <h4 align="left">  El objetivo de este proyecto es Evaluar la Influencia de la Inflación en el Comportamiento del Producto Interno Bruto (PIB) de Argentina a lo largo de las Décadas, Identificando Patrones y Factores Determinantes, con el fin de Proporcionar Perspectivas y Recomendaciones Económicas. </h4>
+      <h4 align="left">  </h4>
 </p> 
 <p align="center">
     <h3 align="center">Introducción: </h3>
 </p> 
-      <h4 align="left">  _________ </h4>
+      <h4 align="left"> La economía argentina ha enfrentado desafíos significativos en las últimas décadas, y uno de los factores críticos que ha impactado en su desempeño es la inflación. En este proyecto, se llevará a cabo un análisis exhaustivo de la relación entre la inflación y el Producto Interno Bruto (PIB) de Argentina a lo largo del tiempo. El objetivo principal es identificar tendencias, patrones y factores determinantes que puedan ayudar a comprender cómo la inflación ha influido en el comportamiento económico del país.
+
+El proyecto se ha estructurado de manera metódica, involucrando la recopilación y limpieza de datos económicos relevantes, análisis exploratorio de los mismos y la aplicación de técnicas de aprendizaje automático, particularmente el algoritmo de K-Means, para el análisis de agrupamiento de datos. Además, se utilizarán visualizaciones interactivas creadas con Tableau para representar de manera efectiva los hallazgos clave.
+
+A través de este análisis, se espera proporcionar una perspectiva más clara de cómo la inflación ha impactado en la economía argentina en el pasado y qué implicaciones puede tener para el futuro. Esto podría resultar en recomendaciones económicas fundamentadas para ayudar al país a abordar los desafíos económicos y tomar decisiones informadas en el ámbito de políticas públicas. </h4>
 </p> 
 <p align="center">
     <h3 align="center"> Planificación del proceso </h3>
